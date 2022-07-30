@@ -1,0 +1,37 @@
+{
+  "id": "3193574",
+  "name": "qixia",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2678662",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "3109102",
+      "name": "生成卡密",
+      "font_class": "shengchengbaogao-",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "4562784",
+      "name": "总代理账号",
+      "font_class": "zongdailizhanghao",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "14511274",
+      "name": "卡密管理",
+      "font_class": "kamiguanli",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    }
+  ]
+}
